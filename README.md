@@ -67,11 +67,11 @@ The remote.itPi OS default user is “pi“, password is “raspberry“.  SSH (
 ## Using the remote.it Web Portal
 You can also use the [remote.it web portal](https://app.remote.it) to connect to your remote.itPi device. You can view it on the web portal's "Devices" page.  
 
-1. Find and click on your remote.itPi device name.  
-   <img src="https://user-images.githubusercontent.com/42136920/79592786-7d9da080-8115-11ea-90b6-a9280602c17f.png" width="700">
+1. Find your remote.itPi device name and click **CONNECT**.  
+   <img src="https://user-images.githubusercontent.com/42136920/80310265-bc69df80-8814-11ea-8634-448f57343bbd.png" width="700">
 
-2. You will be prompted with a dialog window that shows all the available services on your remote.itPi device. Click on a service name to start a connection.  
-   <img src="https://user-images.githubusercontent.com/42136920/79592797-81312780-8115-11ea-8743-b432b1198b2f.png" width="700">
+2. You will see the list of all services available on the remote.itPi device. Click on a service name to start a connection.  
+   <img src="https://user-images.githubusercontent.com/42136920/80310358-22566700-8815-11ea-8c5d-d32ead806a2d.png" width="700">
 
 3. When a connection is established, you will see information on how to access the service. Here is an example of the information for accessing the device's graphical desktop using VNC:  
    <img src="https://user-images.githubusercontent.com/42136920/79592414-ee908880-8114-11ea-8320-6e7f0aa28449.png" width="700">
