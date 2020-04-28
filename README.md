@@ -15,7 +15,7 @@ The remote.itPi OS default user is “pi“, password is “raspberry“.  SSH (
 
 # remote.itPi Installation
 
-If you have already remote.itPi Image, you can see the following [Quick Start remote.itPi image](#Quick Start remote.itPi image).  
+If you have already remote.itPi Image, you can see the following <a href="#Quick Start remote.itPi image">Quick Start remote.itPi image</a>.  
 If you use remote.itPi first time, please install remote.itPi by referring to [Preparing the remote.itPi Image](#Preparing the remote.itPi Image) and below.
 
 ## Quick Start remote.itPi image
