@@ -15,6 +15,27 @@ The remote.itPi OS default user is “pi“, password is “raspberry“.  SSH (
 
 # remote.itPi Installation
 
+If you have already remote.itPi Image, you can see the following [Quick Start remote.itPi image](#Quick Start remote.itPi image).  
+If you use remote.itPi first time, please install remote.itPi by referring to [Preparing the remote.itPi Image](#Preparing the remote.itPi Image) and below.
+
+## Quick Start remote.itPi image
+1. Plug in an SD card.  
+
+2. Write the remote.itPi image to the SD card.  
+
+3. Optional: To setup wireless, enter the WiFi credentials into wpa_supplicant.conf on the SD card.  
+
+4. Insert SD card into Pi and turn it on.  
+
+5. Visit http://find.remote.it to find the new Pi.  
+
+6. Connect to your new remote.it device and follow the instructions to create a remote.it account and setup your device
+Default OS user credentials:  
+
+- Username: pi  
+- Password: raspberry  
+
+
 ## Preparing the remote.itPi Image 
 1. Download the [remoteit.Pi Image .zip](https://downloads.remote.it/pi/latest/remote.itPi.img.zip) onto your laptop/desktop if you haven't done so already.
 
