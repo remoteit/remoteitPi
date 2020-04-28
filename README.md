@@ -37,7 +37,7 @@ Default OS user credentials:
 
 
 ## Preparing the remote.itPi Image 
-1. Download the [remoteit.Pi Image .zip](https://downloads.remote.it/pi/latest/remote.itPi.img.zip) onto your laptop/desktop if you haven't done so already.
+1. Download the [remoteit.Pi Image .zip](https://downloads.remote.it/remote.itPi/latest/remote.itPi.img.zip) onto your laptop/desktop if you haven't done so already.
 
 2. Extract the contents of the .zip file onto your computer.
 
