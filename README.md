@@ -8,7 +8,7 @@ Follow the simple steps below to activate remote access to the Pi, and from ther
 The remote.itPi OS default user is “pi“, password is “raspberry“.  SSH (port 22) and VNC (port 5900/tcp) are both enabled automatically.  Make sure to change the Pi password using the “sudo raspi-config” utility after boot up as described in the detailed step-by-step instructions. A root password is not set by default. If you would like to set the password for root, you can run the command "sudo passwd root" and enter a password of your choosing.
 
 # What you'll need before installing
-- [remote.itPi Image .zip](https://downloads.remote.it/pi/latest/remote.itPi.img.zip) downloaded onto your computer
+- [remote.itPi Image .zip](https://downloads.remote.it/remote.itPi/latest/remote.itPi.img.zip) downloaded onto your computer
 - Formatted micro SD card
 - micro SD card reader
 - [Raspberry Pi Imager](https://www.raspberrypi.org/downloads/ ) (To write the remote.itPi image onto the micro SD card)
