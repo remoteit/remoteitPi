@@ -1,7 +1,7 @@
 # Overview
 remote.itPi is an SD Card operating system image for Raspberry Pi based on the latest Raspbian OS. The remote.itPi image includes the remote.it application to enable instant remote access to Pi using SSH or VNC and any private network where the Pi is connected.  Once connected to the office network, the Pi will provide direct remote access for authenticated users to any computers, routers, NAS storage boxes, printers, etc. connected to the same remote network.
 
-Download, unzip, and burn the “remote.itPi.img” image file to an SD card, insert it in a Raspberry Pi (any Pi with 512 MB or more RAM) and boot up the Pi. No HDMI display, mouse, or keyboard is needed.  The rootfs partition is automatically expanded to maximize the available space on the SD Card.  SSH and VNC are both enabled by default to allow you to bring up the Pi in a Headless (no monitor, no keyboard, no mouse) configuration from any other computer on the same network.  
+Download, unzip, and burn the “remote.itPi.img” image file to an SD card, insert it in a Raspberry Pi (remote.itPi is supported only on Raspberry Pi 2, Pi 3, Pi 4, and Pi Zero W) and boot up the Pi. No HDMI display, mouse, or keyboard is needed.  The rootfs partition is automatically expanded to maximize the available space on the SD Card.  SSH and VNC are both enabled by default to allow you to bring up the Pi in a Headless (no monitor, no keyboard, no mouse) configuration from any other computer on the same network.  
 
 Follow the simple steps below to activate remote access to the Pi, and from there, the Pi will provide direct access to any other device, computer, router, printer, NAS storage box, etc. on the same network.
 
